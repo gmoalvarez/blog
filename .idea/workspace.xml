@@ -84,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/../blog/buildspec.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -225,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538343620084</updated>
-      <workItem from="1538343621440" duration="14158000" />
+      <workItem from="1538343621440" duration="14296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14158000" />
+    <option name="totallyTimeSpent" value="14296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="960" height="1100" extended-state="0" />
@@ -489,7 +489,7 @@
     <entry file="file://$PROJECT_DIR$/../blog/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
