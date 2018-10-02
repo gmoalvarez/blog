@@ -83,8 +83,8 @@
       <file leaf-file-name="buildspec.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../blog/buildspec.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="420">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -225,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538343620084</updated>
-      <workItem from="1538343621440" duration="14546000" />
+      <workItem from="1538343621440" duration="15141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14546000" />
+    <option name="totallyTimeSpent" value="15141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="960" height="1100" extended-state="0" />
@@ -241,9 +241,9 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="npm" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49733758" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49733758" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920128" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -488,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../blog/buildspec.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="420">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
